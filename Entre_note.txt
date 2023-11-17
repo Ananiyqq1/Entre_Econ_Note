@@ -8,6 +8,7 @@ ________________________________________________________________________________
  Industry: a group of firms that have the same manufacturing process
  Commerce: 1 Trade
            2 Aids to Trade
+            The following are classified under promotions from (a) to (e) 
             a.Advertising: a paid form of non promotional presentation of ideas, goods or services
              through an identified sponsor.To advertise merley means to inform persuade or remind
              the potential as well as the ultimate customer for the purpose of selling the company's 
@@ -28,8 +29,21 @@ ________________________________________________________________________________
               7.Requires after sale services
             c.Sales promotion: short term incentive intendded to induce trial or purchase of a product. 
              the main objective is to increase sales volume. EHen there is unsold inventory
-             e.g. sweepstakes, buy one get one free
+             e.g. sweepstakes, buy one get one free(BOGOF)
             d.Public relation: A variety of progra designed to build or promote the company's image
              Activities are: lobbying,civic activities,product publicity,photogrph,magazine
-             
+            e.Direct marketing: the use of telecommunication to directly solicit order from a designated
+             group of buyers. Types: Telemarketing, catalogue retailing, Price list, kiosk marketing,
+                                     automatic vending an e-commerce
+             It is the most selective of all other medias.
+            -Lobbying : subguarding the image of the company from any allegation  
+ Finance: life blood of a company
+ Risk: the potential outcome
+ Stakeholders of a company include:  a) Government       d) Shareholders         g) Labour union
+                                     b) Employees        e) Suppliers  
+                                     c) Customer         f) Community 
+                                   
+                                   
+                                   
+
 
